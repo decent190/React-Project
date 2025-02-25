@@ -40,9 +40,10 @@ const HeroSection = () => {
   
   
   
-        <div class="bg-secondary p-5  " style={{height:"100vh"}}>
+        <div class="bg-white p-5  " style={{height:"100vh"}}>
           <div className='text-center align-items-center justify-content-center'>
             <h2>hello</h2>
+            {/* <h1>{firstName}</h1> */}
           </div>
     
       
